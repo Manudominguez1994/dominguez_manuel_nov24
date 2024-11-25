@@ -1,0 +1,4 @@
+# Archivos que ignoramos
+*.xsd
+# Carpetas que ignoramos
+top_secret/
